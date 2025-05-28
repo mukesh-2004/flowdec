@@ -46,12 +46,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/monke-guy/flowdeck.git"
+    "url": "https://github.com/mukesh-2004/flowdeck.git"
   },
-  "homepage": "https://github.com/monke-guy/flowdeck#readme",
+  "homepage": "https://github.com/mukesh-2004/flowdeck#readme",
   "bugs": {
-    "url": "https://github.com/monke-guy/flowdeck/issues",
-    "email": "hello.monkeguy@gmail.com"
+    "url": "https://github.com/mukesh-2004/flowdeck/issues",
+    "email": "mukeshchoudhary22004@gmail.com"
   },
   "scripts": {
     "dev": "next dev",
